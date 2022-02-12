@@ -4,7 +4,7 @@
     {
         static void Main(String[] args)
         {
-            Console.WriteLine("Hello World!");
+            Board board = new Board();
         }
     }
 }
